@@ -1,6 +1,6 @@
 ### Olá, me chamo Vinicius Uliano
 
-Estou estudando sistemas de informação :)
+Estou estudando sistemas de informação e atualmente trabalho como Analista de TI :)
 
 <div align="">
   <a href="https://github.com/ViniciusUliano">
